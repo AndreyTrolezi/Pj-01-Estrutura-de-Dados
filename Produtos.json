@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": 101,
+        "nome": "Caderno Universitário 200 fls",
+        "categoria": "Papelaria",
+        "preco": 24.90,
+        "quantidade": 50
+    },
+    {
+        "codigo": 205,
+        "nome": "Caneta Esferográfica Azul",
+        "categoria": "Papelaria",
+        "preco": 3.50,
+        "quantidade": 3
+    },
+    {
+        "codigo": 312,
+        "nome": "Mochila Executiva 30L",
+        "categoria": "Bolsas",
+        "preco": 189.99,
+        "quantidade": 12
+    },
+    {
+        "codigo": 418,
+        "nome": "Calculadora Científica FX-82",
+        "categoria": "Eletrônicos",
+        "preco": 99.00,
+        "quantidade": 0
+    },
+    {
+        "codigo": 530,
+        "nome": "Grampeador de Mesa",
+        "categoria": "Papelaria",
+        "preco": 18.75,
+        "quantidade": 4
+    }
+]
